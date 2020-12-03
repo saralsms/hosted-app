@@ -1,0 +1,28 @@
+{
+  "name": "SaralSMS - Bulk SMS Provider",
+  "short_name": "SaralSMS",
+  "description": "Bulk SMS service provider in Nepal.",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FF3D16",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "scope": "./",
+  "start_url": "./",
+  "categories": [
+    "communication",
+    "social"
+  ],
+  "icons": [
+    {
+      "src": "./img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
